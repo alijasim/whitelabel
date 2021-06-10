@@ -10,17 +10,17 @@ app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "maheshwaribhavesh95863@gmail.com"
 app_license = "MIT"
-app_logo_url = '/assets/whitelabel/images/whitelabel_logo.jpg'
+app_logo_url = '/assets/whitelabel/images/nidham_logo.jpg'
 
 # Includes in <head>
 # ------------------
 
 # include js, css files in header of desk.html
-app_include_css = "/assets/whitelabel/css/whitelabel_app.css"
-app_include_js = "/assets/whitelabel/js/whitelabel.js"
+app_include_css = "/assets/whitelabel/css/nidham_app.css"
+app_include_js = "/assets/whitelabel/js/nidham.js"
 
 # include js, css files in header of web template
-web_include_css = "/assets/whitelabel/css/whitelabel_web.css"
+web_include_css = "/assets/whitelabel/css/nidham_web.css"
 # web_include_js = "/assets/whitelabel/js/whitelabel.js"
 
 # include js in page
@@ -47,8 +47,8 @@ web_include_css = "/assets/whitelabel/css/whitelabel_web.css"
 # get_website_user_home_page = "whitelabel.utils.get_home_page"
 
 website_context = {
-	"favicon": "/assets/whitelabel/images/whitelabel_logo.jpg",
-	"splash_image": "/assets/whitelabel/images/whitelabel_logo.jpg"
+	"favicon": "/assets/whitelabel/images/nidham_logo.jpg",
+	"splash_image": "/assets/whitelabel/images/nidham_logo.jpg"
 }
 after_migrate = ['whitelabel.api.whitelabel_patch']
 
