@@ -97,7 +97,7 @@
    "default": "0",
    "fieldname": "disable_new_update_popup",
    "fieldtype": "Check",
-   "label": "Disable New Update Popup"
+   "label": "Disable New Update Popup test"
   }
  ],
  "issingle": 1,
